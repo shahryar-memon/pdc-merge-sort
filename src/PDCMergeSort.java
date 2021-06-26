@@ -123,8 +123,7 @@ class MergeSort{
         }
     }
 }
-
-public class STproject{
+public class PDCMergeSort{
     // Array Size
     private static Random random = new Random();
     private static final int size = random.nextInt(100);
